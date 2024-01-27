@@ -116,7 +116,7 @@ da aplicação provisionada:</b></font></font></p>
 
 </p>
 <p style="font-variant: normal; letter-spacing: normal; line-height: 100%; orphans: 2; widows: 2; margin-bottom: 0cm">
-<img src="./image/index_html_e4ca639403cb0399.png" name="Image1" alt="arquitetura-desafio-advc.png" align="bottom" width="681" height="726" border="0"/>
+<img src="./image/index_html_e4ca639403cb0399.png" name="Image1" alt="arquitetura-desafio-advc.png" align="bottom" width="1200" height="700" border="0"/>
 </p>
 <p style="font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 100%; orphans: 2; widows: 2; margin-bottom: 0cm">
 <br/>
