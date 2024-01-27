@@ -106,23 +106,8 @@
     Amazon API Gateway - Criando primeira API - Avançado
     ------------------------------------------------------------------------------------------------------------------
 
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 7.3.7.2 (Linux)"/>
-	<meta name="created" content="2024-01-24T22:23:53.040505276"/>
-	<meta name="changed" content="2024-01-25T10:42:27.198783251"/>
-	<style type="text/css">
-		@page { size: 21cm 29.7cm; margin: 2cm }
-		p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }
-		pre { background: transparent }
-		pre.western { font-family: "Liberation Mono", monospace; font-size: 10pt }
-		pre.cjk { font-family: "Noto Sans Mono CJK SC", monospace; font-size: 10pt }
-		pre.ctl { font-family: "Liberation Mono", monospace; font-size: 10pt }
-	</style>
-</head>
+<br><br><br>
+
 <body lang="pt-BR" link="#000080" vlink="#800000" dir="ltr"><p style="font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 100%; orphans: 2; widows: 2; margin-bottom: 0cm">
 <font face="Roboto, sans-serif"><font size="2" style="font-size: 10pt"><b>Diagrama
 da aplicação provisionada:</b></font></font></p>
