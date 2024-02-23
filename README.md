@@ -1,6 +1,5 @@
 <body lang="pt-BR" link="#000080" vlink="#800000" dir="ltr"><p style="font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 100%; orphans: 2; widows: 2; margin-bottom: 0cm">
-<font face="Roboto, sans-serif"><font size="2" style="font-size: 10pt"><b>Diagrama
-da aplicação provisionada:</b></font></font></p>
+<font face="Roboto, sans-serif"><font size="2" style="font-size: 16pt"><b>Diagramada aplicação provisionada:</b></font></font></p>
 <p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; orphans: 2; widows: 2; margin-bottom: 0cm">
 <br/>
 
