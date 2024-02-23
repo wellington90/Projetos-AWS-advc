@@ -1,5 +1,11 @@
 <body lang="pt-BR" link="#000080" vlink="#800000" dir="ltr"><p style="font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 100%; orphans: 2; widows: 2; margin-bottom: 0cm">
-<font face="Roboto, sans-serif"><font size="2" style="font-size: 16pt"><b>Diagramada aplicação provisionada:</b></font></font></p>
+<font face="Roboto, sans-serif"><font size="2" style="font-size: 16pt"><b>O Desafio ADVC da CloudFaster Academy envolve a configuração de uma infraestrutura na nuvem usando a Amazon Web Services (AWS). Os participantes criam uma VPC na região N. Virginia com 4 subnets, 2 públicas e 2 privadas, e estabelecem conectividade à internet para as subnets privadas por meio de um NAT Gateway altamente disponível.
+
+Eles também criam Security Groups para o Application Load Balancer (ALB) e as instâncias EC2, permitindo acesso à porta 80 apenas para o ALB. Um Target Group é configurado para conectar o ALB às instâncias EC2.
+
+O próximo passo envolve a criação de um Launch Template e um Auto Scaling Group para gerenciar as instâncias EC2, com configurações de rede, capacidade e escalabilidade definidas. Os participantes testam a resiliência do sistema desligando uma instância e observando o Auto Scaling Group substituí-la automaticamente.
+
+O Desafio ADVC proporciona uma oportunidade valiosa para os profissionais adquirirem experiência prática em configurar e gerenciar infraestrutura na nuvem usando a AWS.</b></font></font></p>
 <p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; orphans: 2; widows: 2; margin-bottom: 0cm">
 <br/>
 
